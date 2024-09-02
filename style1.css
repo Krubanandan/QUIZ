@@ -1,0 +1,37 @@
+.home{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.home-content{
+    max-width: 600px;
+    font-family: 'Poppins';
+    
+    
+
+
+}
+.home-content h1{
+    font-size: 100px;
+    color: rgb(0, 50, 62);
+}
+.home-content .start-btn{
+    width: 190px;
+    height: 50px;
+    border: 0cm;
+    font-family: 'Poppins';
+    font-size: 20px;
+    background-color: #fff;
+    
+    margin-left: 130px;
+
+}
+
+body{
+    background-image: url(DSC_0029.jpg);
+    background-size: cover;
+    
+}
